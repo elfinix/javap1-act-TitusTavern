@@ -50,12 +50,11 @@ This project is a graphical user interface (GUI) application that simulates a re
 
 ## 📜 Publication Disclaimer
 
-As a college project, enhancements are certain to be added to the source code, the technologies used, and the program's overall structure. Future improvements will be implemented as opportunities arise to revisit and refine this project.
+This project is an archived college coursework. Future improvements may be implemented as opportunities arise to revisit and refine this project.
 
 **Fair Use Disclaimer**: This project may use or include content, code, or libraries that are subject to fair use provisions. All third-party resources used in this project are acknowledged and are intended for educational or non-commercial use only.
 
 If you believe that any content used in this project violates your rights or the rights of others, please contact us so that we can address your concerns.
-
 
 ## 🪪 License
 
