@@ -2,7 +2,7 @@
 
 This project is a graphical user interface (GUI) application that simulates a restaurant ordering system for "Titus Tavern". It allows users to browse through a menu, select items, and process their orders. The application is written in Java using Swing libraries.
 
-❗ This is an academic project utilizing Fair Use targeted for non-profit and educational purposes. **Please note that this repository project contains novice program structures and represents a college work rather than professional work.** (See [publication disclaimer](#-publication-disclaimer))
+❗ This is an academic project utilizing Fair Use targeted for non-profit and educational purposes. **Please note that this repository project represents _college work_ rather than professional work.** (See [publication disclaimer](#-publication-disclaimer))
 
 ## 🏁 Features
 
@@ -50,7 +50,7 @@ This project is a graphical user interface (GUI) application that simulates a re
 
 ## 📜 Publication Disclaimer
 
-This project is an archived college coursework. Future improvements may be implemented as opportunities arise to revisit and refine this project.
+This project is an **archived** college coursework. Future improvements may be implemented as opportunities arise to revisit and refine this project.
 
 **Fair Use Disclaimer**: This project may use or include content, code, or libraries that are subject to fair use provisions. All third-party resources used in this project are acknowledged and are intended for educational or non-commercial use only.
 
@@ -67,7 +67,8 @@ If you intend to contribute to this project, please be aware that contributions 
 For any additional questions or concerns, please do not hesitate to reach out to us.
 
 <br>
-🖇️ Original repository with source code at: https://github.com/elfin-college/javap1-fin-TitusTavern
+
+🖇️ Original repository with source code at: https://github.com/elfin-college/javap1-fin-TitusTavern (_private by default_)
 
 Copyright @ 2024 [elfinix](https://github.com/elfinix)
 
