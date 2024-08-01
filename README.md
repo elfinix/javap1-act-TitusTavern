@@ -14,7 +14,8 @@ This project is a graphical user interface (GUI) application that simulates a re
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/8a9645a1-ae0c-4198-bd61-c966100be9b1)
+![image](https://github.com/user-attachments/assets/cd09b19f-196d-4fdc-9a96-5fb2c0e0f927)
+
 
 ## ⛳ Getting Started
 
