@@ -14,7 +14,7 @@ This project is a graphical user interface (GUI) application that simulates a re
 
 ## 📸 Screenshots
 
-
+![image](https://github.com/user-attachments/assets/8a9645a1-ae0c-4198-bd61-c966100be9b1)
 
 ## ⛳ Getting Started
 
@@ -26,15 +26,15 @@ This project is a graphical user interface (GUI) application that simulates a re
 
 ### Installation
 
-1. Download the .exe file available in the Releases section, or proceed to:
+1. **Download the Executable File**
+   - Visit the [Releases section](https://github.com/elfinix/javap1-act-TitusTavern/releases) of this repository.
+   - Download the latest `.exe` file from the list of assets. The file will be named something like `TitusTavern.exe`.
 
-   ```bash
-   build/<project_name>.exe
-   ```
+2. **Navigate to the Download Folder**
+   - Open File Explorer and go to your `Downloads` folder (or wherever your browser saves downloaded files).
 
-2. Navigate to yor Downloads folder
-
-3. Run the app
+3. **Launch the application.**
+   - Double-click the application icon to launch it.
 
 ## 🔁 Dependencies
 
